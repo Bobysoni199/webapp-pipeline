@@ -1,0 +1,7 @@
+/mnt/c/Users/91820/OneDrive/Desktop/dotnet/SimpleDotNetApp/bin/Release/net8.0/publish/SimpleDotNetApp
+/mnt/c/Users/91820/OneDrive/Desktop/dotnet/SimpleDotNetApp/bin/Release/net8.0/publish/appsettings.Development.json
+/mnt/c/Users/91820/OneDrive/Desktop/dotnet/SimpleDotNetApp/bin/Release/net8.0/publish/appsettings.json
+/mnt/c/Users/91820/OneDrive/Desktop/dotnet/SimpleDotNetApp/bin/Release/net8.0/publish/SimpleDotNetApp.dll
+/mnt/c/Users/91820/OneDrive/Desktop/dotnet/SimpleDotNetApp/bin/Release/net8.0/publish/SimpleDotNetApp.deps.json
+/mnt/c/Users/91820/OneDrive/Desktop/dotnet/SimpleDotNetApp/bin/Release/net8.0/publish/SimpleDotNetApp.runtimeconfig.json
+/mnt/c/Users/91820/OneDrive/Desktop/dotnet/SimpleDotNetApp/bin/Release/net8.0/publish/SimpleDotNetApp.pdb
